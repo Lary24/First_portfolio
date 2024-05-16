@@ -1,0 +1,8 @@
+=========== CONTENDIDO DE UN PORTFOLIO============
+
+1. HEADER (LOGO, ENLACES PARA LAS SECCIONES ---- INICIO ---- TRABAJOS --- CONTACTO)
+2. MAIN (SECCIONES)
+3.FOOTER ()
+
+==================================
+====== SELECCIONAR TIPOGRAFIAS===
